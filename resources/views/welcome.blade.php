@@ -8,7 +8,7 @@
     <title>Laravel Template</title>
     @vite('resources/js/app.js')
 </head>
-
+ 
 <body>
     <div class="container py-5">
         <header>
